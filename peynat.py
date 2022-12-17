@@ -1,5 +1,5 @@
 import os,sys
 if __name__=='__main__':
-  k=6*8.5
-  u=k/3.6
-  print(k+1)
+  k=5*4.8
+  u=k/3.2
+  print(k+2)
